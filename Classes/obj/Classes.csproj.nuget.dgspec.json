@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeremiah\\repos\\Classes-Exercise\\Classes\\Classes.csproj": {}
+    "C:\\Users\\Jeremiah\\repos1\\Classes-Exercise\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeremiah\\repos\\Classes-Exercise\\Classes\\Classes.csproj": {
+    "C:\\Users\\Jeremiah\\repos1\\Classes-Exercise\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeremiah\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\Jeremiah\\repos1\\Classes-Exercise\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\Jeremiah\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\Jeremiah\\repos1\\Classes-Exercise\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Jeremiah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeremiah\\repos\\Classes-Exercise\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\Jeremiah\\repos1\\Classes-Exercise\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
